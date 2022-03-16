@@ -19,7 +19,7 @@
           <span class="icon">
           <i class="fa-solid fa-chart-line"></i>
           </span>
-          <span class="text">Dashboard</span>
+          <span class="text">Dashboard.</span>
         </a>
       </li>
       <li class="nav-item">
